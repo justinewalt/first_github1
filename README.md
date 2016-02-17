@@ -1,1 +1,3 @@
-# first_github1
+# First Github1
+# Learning Github
+# Justin Ewalt
